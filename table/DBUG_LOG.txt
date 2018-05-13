@@ -1,0 +1,23 @@
+[DBEG_INFO] /home/hf/table/table_process_main/src/table_process_main.cpp		           main()	11		 call
+[DBEG_INFO] /home/hf/table/table_process_main/src/table_process_main.cpp		           main()	19		create obj ok 
+[DBEG_INFO]                       /home/hf/table/table/src/CLinkList.cpp		       initlist()	7		 call
+[DBEG_INFO]                       /home/hf/table/table/src/CLinkList.cpp		       initlist()	13		 end
+[DBEG_INFO] /home/hf/table/table_process_main/src/table_process_main.cpp		           main()	26		init list ok 
+[DBEG_INFO]                       /home/hf/table/table/src/CLinkList.cpp		     insertList()	41		 call
+[DBEG_INFO]                       /home/hf/table/table/src/CLinkList.cpp		     insertList()	96		 end
+[DBEG_INFO] /home/hf/table/table_process_main/src/table_process_main.cpp		           main()	33		insert list ok
+[DBEG_INFO]                       /home/hf/table/table/src/CLinkList.cpp		     insertList()	41		 call
+[DBEG_INFO]                       /home/hf/table/table/src/CLinkList.cpp		     insertList()	96		 end
+[DBEG_INFO] /home/hf/table/table_process_main/src/table_process_main.cpp		           main()	40		insert list ok
+[DBEG_INFO]                       /home/hf/table/table/src/CLinkList.cpp		     insertList()	41		 call
+[DBEG_INFO] /home/hf/table/table_process_main/src/table_process_main.cpp		           main()	47		insert list ok
+[DBEG_INFO]                       /home/hf/table/table/src/CLinkList.cpp		     insertList()	41		 call
+[DBEG_INFO]                       /home/hf/table/table/src/CLinkList.cpp		     insertList()	96		 end
+[DBEG_INFO] /home/hf/table/table_process_main/src/table_process_main.cpp		           main()	54		insert list ok
+[DBEG_INFO]                       /home/hf/table/table/src/CLinkList.cpp		       showList()	153		 call
+[DBEG_INFO]                       /home/hf/table/table/src/CLinkList.cpp		       showList()	168		 end
+[DBEG_INFO] /home/hf/table/table_process_main/src/table_process_main.cpp		           main()	60		show list ok
+[DBEG_INFO]                       /home/hf/table/table/src/CLinkList.cpp		        destroy()	18		 call
+[DBEG_INFO]                       /home/hf/table/table/src/CLinkList.cpp		        destroy()	37		 end
+[DBEG_INFO] /home/hf/table/table_process_main/src/table_process_main.cpp		           main()	68		destroy list ok
+[DBEG_INFO] /home/hf/table/table_process_main/src/table_process_main.cpp		           main()	71		 end
